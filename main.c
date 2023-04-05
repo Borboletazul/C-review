@@ -126,19 +126,15 @@ void condit_statements()
 }
 //
 
-//LOOP
+//STRING/ARRAY
 
+//LOOPS
 
+//FUNCTIONS
 
+//POINTER
 
-
-
-
-
-
-
-
-
+//STRUCT
 
 
 
