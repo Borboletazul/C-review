@@ -8,7 +8,7 @@
 //implementing "main.c" function
 int main(void){
   
-printf("Hello World")
+printf("Hello World");
 
 //return 0 shows the machine that the code has no issues
 return 0;
