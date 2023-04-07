@@ -1,3 +1,9 @@
+/*
+Portuguese
+decription: this program ask for integer numbers input until you find the
+secret number, you will have 10 attemps
+*/
+
 #include <stdio.h>
 
 int main(void) {
