@@ -1,4 +1,4 @@
-
+//implement main.c function
 #include <stdio.h>
 
 int main(void){
