@@ -5,4 +5,4 @@ On development...
 these programs may have some wrong terms, if you have some suggestions or correction, please let me know,
 those ones are still on development process and need to be revised
  
- # let's share knowledge!
+ # Let's share knowledge!
