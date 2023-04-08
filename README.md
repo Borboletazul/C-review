@@ -1,3 +1,0 @@
-# C-review
-C beginner review
-On development...
