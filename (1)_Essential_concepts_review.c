@@ -129,6 +129,17 @@ void condit_statements()
 //STRING/ARRAY
 
 //LOOPS
+loop_for(){
+  for(int i=0; i<10;i++)
+    {
+      printf("%d\n",i);
+    }
+}
+/* for the variable i(integer) starting with 0,
+the rule "i++" will sum 1 to the value of the integer every iteration
+of the loop, and the rule "i<10" will stop the loop when "i"
+turn into this value
+*/  
 
 //FUNCTIONS
 
