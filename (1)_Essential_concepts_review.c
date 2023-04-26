@@ -135,11 +135,22 @@ loop_for(){
       printf("%d\n",i);
     }
 }
+
 /* for the variable i(integer) starting with 0,
 the rule "i++" will sum 1 to the value of the integer every iteration
 of the loop, and the rule "i<10" will stop the loop when "i"
 turn into this value
 */  
+while_loop(){
+  int k;
+  while(k!=0){
+    print(" Enter the value of k");
+    scanf("%d",k);
+    printf("Still on the loop");
+  }
+}
+/*the loop will not stop until the while condition is served
+*/
 
 //FUNCTIONS
 
