@@ -153,6 +153,14 @@ while_loop(){
 */
 
 //FUNCTIONS
+//to creat a function:
+função(){
+  printf("Hello World!");
+  }
+/*that is the function that prints "Hello World". to call the function to run 
+on the "main" function:
+função()
+*/
 
 //POINTER
 
