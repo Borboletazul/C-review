@@ -157,12 +157,16 @@ while_loop(){
 função(){
   printf("Hello World!");
   }
-/*that is the function that prints "Hello World". to call the function to run 
-on the "main" function:
-função()
+/*that is the function that prints "Hello World".
+To call the function to run on the "main" function:
+função();
 */
 
 //POINTER
+/*a variable let the program access content of the variable stored
+some place on the memory, the "pointer" refeer to a adress of memory.
+Unlike the variable, it one have a adress as content.
+*/
 
 //STRUCT
 
